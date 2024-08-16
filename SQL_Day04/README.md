@@ -9,3 +9,7 @@
 7. [**Exercise 06**](src/ex06/day04_ex06.sql): Создание материализованного представления (MATERIALIZED VIEW) для хранения результатов сложного запроса;
 8. [**Exercise 07**](src/ex07/day04_ex07.sql): Вставка новых данных и обновление материализованного представления с помощью REFRESH MATERIALIZED VIEW;
 9. [**Exercise 08**](src/ex08/day04_ex08.sql): Удаление созданных представлений и материализованных представлений с использованием DROP VIEW и DROP MATERIALIZED VIEW.
+
+Для тестов необходимо запустить скрипт [model.sql](src/model.sql) с моделью базы данных.
+
+<img src="src/diagram.png" width="500">
